@@ -1,13 +1,17 @@
 ---
 title: "Resume"
+mainfont: Times New Roman
 ---
+
 ##Yue (George) Zhao                                 
 
 ##Email: yue.zhao2@columbia.edu  209-770-0277
 
 
-
 ##EDUCATION
+
+<font size="4"> 
+
 
 Columbia University, New York, New York
 
@@ -70,8 +74,6 @@ Statistical Skills: SAS, STATA, EpiData
 
 Linear Regression, Logistic Regression, t-test, Chi-Squared Test, McNemar’s Test, Breslow-Day Test, White Test, Wilcoxon Sign-Rank Test, Mixed Test with longitudinal data, Cluster Analysis. 
 
- 
-
 Programming Skills: Visual Basic, Java, SQL, C#
 
 Visual Basic: I programmed macros in the internship at BEA for daily information update. This program would automatically copy and paste the information from the downloaded excel form to the base excel form. 
@@ -87,3 +89,4 @@ Java: I developed a web program during college freshman year to sell burgers onl
 College of Science and Engineering (TCU) Dean’s List                                       Spring 2016
 
 Texas Christian University Founder’s Scholarship Laureate                                Fall 2013-Present
+ </font> 

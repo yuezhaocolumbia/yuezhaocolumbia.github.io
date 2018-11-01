@@ -4,6 +4,10 @@ title: "About"
 
 ### About this site
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+This site was made using R studio and published on github. While there are a lot of websites made by Wix.com, the github website are more professional and the coding is very complicated to a beginner. 
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+I would suggest a beginner go from the basic R packages like tidyverse and dplyr. R studio is a very cool intergrated developing environment, which saves us a lot of work if we are just programming the original R code. 
+
+
+Yue
+from China
