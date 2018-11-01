@@ -5,9 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:<omniscientyue@gamil.com
+    - text: "Resume"
+      href: resume.html
     - icon: fa-github fa-lg
       href: http://github.com/yuezhaocolumbia/
+    - icon: fa-linkedin fa-lg
+      href: http://www.linkedin.com/in/yuezhaotcu
+    - icon: fa-envelope fa-lg
+      href: mailto:<omniscientyue@gmail.com>
+      
 output:
   html_document

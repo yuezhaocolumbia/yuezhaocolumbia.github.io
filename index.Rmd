@@ -1,7 +1,14 @@
 ---
-title: "Holy cow!"
+title: "Welcome to Yue's Website!"
 ---
 
-### I have a webpage!
+<font size="4"> 
 
-And I can put all kinds of stuff on it!
+This is Yue from Columbia University Mailman School of Public Health. I am a second year MPH Biostatistics student.
+
+I am looking for a full time job as a data analyst. I am good at SAS and R programming. I also learned Java and C# in college.
+
+</font> 
+
+<img src="images/image.jpg" style="width:75%">
+
