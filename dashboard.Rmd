@@ -1,5 +1,5 @@
 ---
-title: "Dashboard Using Plotly"
+title: "Dashboard Using Plotly (Data:Instacart)"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
